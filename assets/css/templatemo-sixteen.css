@@ -225,14 +225,14 @@ header .navbar {
 .background-header {
 	top: 0;
 	position: fixed;
-	background-color: white!important;
+	background-color: #A6C1AA!important;
 	box-shadow: 0px 1px 10px rgba(0,0,0,0.1);
 }
 .background-header .navbar-brand h2 {
 	color: #A6C1AA!important;
 }
 .background-header .navbar-nav a.nav-link {
-	color: white!important;
+	color: #A6C1AA!important;
 }
 .background-header .navbar-nav .nav-link:hover,
 .background-header .navbar-nav .active>.nav-link,
