@@ -11,7 +11,7 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #A6C1AA;
+  /* background-color: #A6C1AA; */
 }
 p {
 	margin-bottom: 0px;
@@ -126,7 +126,7 @@ a.filled-button:hover {
 
 #preloader {
   overflow: hidden;
-  background:#A6C1AA;
+  background: white;
   left: 0;
   right: 0;
   top: 0;
