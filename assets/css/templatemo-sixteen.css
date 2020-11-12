@@ -489,6 +489,35 @@ header .navbar {
 	font-weight: 500;
 }
 
+.product-item-page .down-content h4 {
+	margin-bottom: 20px!important;
+}
+.product-item-page .down-content h6 {
+	position: absolute!important;
+	top: 30px!important;
+	right: 30px!important;
+}
+.product-item-page .down-content span {
+	position: absolute!important;
+	right: 30px!important;
+	bottom: 30px!important;
+}
+
+.product-item-page .down-content h4 {
+	margin-bottom: 10px;
+}
+.product-item-page .down-content h6 {
+	position: relative;
+	top: 0;
+	right: 0;
+	margin-bottom: 20px;
+}
+.product-item-page .down-content span {
+	position: relative;
+	right: 0;
+	bottom: 0;
+}
+
 
 
 
