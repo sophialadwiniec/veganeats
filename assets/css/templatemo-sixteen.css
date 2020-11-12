@@ -913,11 +913,11 @@ footer .inner-content p a {
 }
 
 .accordion a:hover {
-	color: #f33f3f!important;
+	color: #F6CF01!important;
 }
 
 .accordion a.active {
-  color: #f33f3f!important;
+  color: #F6CF01!important;
 }
 
 .accordion li .content {
