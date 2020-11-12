@@ -474,6 +474,13 @@ header .navbar {
 	font-weight: 500;
 }
 
+.product-item-page .down-content ul li {
+	display: inline-block;
+}
+.product-item-page .down-content {
+	padding: 30px;
+	position: relative;
+}
 
 .product-item-page .down-content ul li i {
 	color: #F6CF01;
