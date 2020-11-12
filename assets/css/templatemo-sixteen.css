@@ -110,7 +110,7 @@ a.filled-button:hover {
 }
 
 .page-heading .text-content h4 {
-	color: #454141;
+	color: #fff;
 	font-weight: bolder;
 	font-size: 22px;
 	text-transform: uppercase;
@@ -119,7 +119,7 @@ a.filled-button:hover {
 }
 
 .page-heading .text-content h2 {
-	color: #454141;
+	color: #fff;
 	font-weight: bolder;
 	font-size: 62px;
 	text-transform: uppercase;
