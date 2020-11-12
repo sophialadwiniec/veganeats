@@ -474,12 +474,38 @@ header .navbar {
 	font-weight: 500;
 }
 
-.product-item-page .down-content ul li {
-	display: inline-block;
-}
+/* product items on pages  */
+
 .product-item-page .down-content {
 	padding: 30px;
 	position: relative;
+}
+
+.product-item-page img {
+	width: 100%;
+	overflow: hidden;
+}
+
+.product-item-page .down-content h4 {
+	font-size: 17px;
+	color: #1a6692;
+	margin-bottom: 20px;
+}
+
+.product-item-page .down-content h6 {
+	position: absolute;
+	top: 30px;
+	right: 30px;
+	font-size: 18px;
+	color: #121212;
+}
+
+.product-item-page .down-content p {
+	margin-bottom: 20px;
+}
+
+.product-item-page .down-content ul li {
+	display: inline-block;
 }
 
 .product-item-page .down-content ul li i {
