@@ -55,12 +55,12 @@ ul.social-icons li a {
 }
 
 ul.social-icons li a:hover {
-	background-color: #f33f3f;
+	background-color: #F6CF01;
 	color: #fff;
 }
 
 a.filled-button {
-	background-color: #f33f3f;
+	background-color: #F6CF01;
 	color: #fff;
 	font-size: 14px;
 	text-transform: capitalize;
@@ -420,7 +420,7 @@ header .navbar {
 	text-transform: uppercase;
 	font-size: 13px;
 	font-weight: 700;
-	color: #f33f3f;
+	color: #F6CF01;
 }
 
 .product-item {
@@ -461,7 +461,7 @@ header .navbar {
 }
 
 .product-item .down-content ul li i {
-	color: #f33f3f;
+	color: #F6CF01;
 	font-size: 14px;
 }
 
@@ -470,7 +470,7 @@ header .navbar {
 	right: 30px;
 	bottom: 30px;
 	font-size: 13px;
-	color: #f33f3f;
+	color: #F6CF01;
 	font-weight: 500;
 }
 
@@ -544,11 +544,11 @@ header .navbar {
 }
 
 .best-features ul.featured-list li a:hover {
-	color: #f33f3f;
+	color: #F6CF01;
 }
 
 .best-features ul.featured-list li a:hover::before {
-	background-color: #f33f3f;
+	background-color: #F6CF01;
 }
 
 .best-features .filled-button {
@@ -607,7 +607,7 @@ footer .inner-content p {
 }
 
 footer .inner-content p a {
-	color: #f33f3f;
+	color: #F6CF01;
 	margin-left: 3px;
 }
 
@@ -640,7 +640,7 @@ footer .inner-content p a {
 
 .products .filters ul li.active,
 .products .filters ul li:hover {
-  color: #f33f3f;
+  color: #F6CF01;
 }
 
 .products ul.pages {
@@ -667,8 +667,8 @@ footer .inner-content p a {
 
 .products ul.pages li a:hover,
 .products ul.pages li.active a {
-	background-color: #f33f3f;
-	border-color: #f33f3f;
+	background-color: #F6CF01;
+	border-color: #F6CF01;
 	color: #fff;
 }
 
@@ -722,7 +722,7 @@ footer .inner-content p a {
 
 .team-member .thumb-container .hover-effect .hover-content ul.social-icons li a:hover {
 	background-color: #fff;
-	color: #f33f3f;
+	color: #F6CF01;
 }
 
 .team-member:hover .hover-effect {
@@ -739,7 +739,7 @@ footer .inner-content p a {
 .team-member .down-content span {
 	display: block;
 	font-size: 13px;
-	color: #f33f3f;
+	color: #F6CF01;
 	font-weight: 500;
 	margin-bottom: 20px;
 }
@@ -773,7 +773,7 @@ footer .inner-content p a {
 	display: inline-block;
 	text-align: center;
 	line-height: 100px;
-	background-color: #f33f3f;
+	background-color: #F6CF01;
 	color: #fff;
 	font-size: 32px;
 }
@@ -1046,7 +1046,7 @@ footer .inner-content p a {
 	.navbar .navbar-nav .nav-link.active,
 	.navbar .navbar-nav .nav-link.show,
 	.navbar .navbar-nav .show>.nav-link {
-		color: #f33f3f!important;
+		color:#F6CF01!important;
 		border-bottom: none!important;
 		padding-bottom: 15px;
 	}
