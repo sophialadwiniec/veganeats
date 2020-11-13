@@ -510,14 +510,14 @@ header .navbar {
 
 .product-item-page .down-content ul li i {
 	color: #F6CF01;
-	font-size: 14px;
+	font-size: 20px;
 }
 
 .product-item-page .down-content span {
 	position: absolute;
 	right: 30px;
 	bottom: 30px;
-	font-size: 13px;
+	font-size: 17px;
 	color: #F6CF01;
 	font-weight: 500;
 }
@@ -637,7 +637,7 @@ header .navbar {
 
 
 /* Call To Action */
-
+/* 
 .call-to-action .inner-content {
 	margin-top: 60px;
 	padding: 30px;
@@ -662,7 +662,7 @@ header .navbar {
 
 .call-to-action .inner-content .filled-button {
 	margin-top: 12px;
-}
+} */
 
 
 
@@ -896,7 +896,7 @@ footer .inner-content p a {
 
 /* Find Us */
 
-.find-us {
+/* .find-us {
 	margin-top: 100px;
 }
 
@@ -914,7 +914,7 @@ footer .inner-content p a {
 
 .find-us .left-content {
 	margin-left: 30px;
-}
+} */
 
 
 
