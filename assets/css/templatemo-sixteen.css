@@ -89,6 +89,10 @@ a.filled-button:hover {
 	margin-bottom: 15px;
 }
 
+.home-heading {
+	background-image: url(../images/hp_image1.jpg);
+}
+
 .products-heading {
 	background-image: url(../images/vegan_cleaning.jpg);
 }
